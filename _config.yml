@@ -1,0 +1,16 @@
+title: Pinball Tournament Strategy Guides
+description: AI-generated strategy guides for competitive pinball
+theme: minima
+markdown: kramdown
+
+collections:
+  guides:
+    output: true
+    permalink: /guides/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
