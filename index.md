@@ -9,6 +9,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
+| [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
 | [Terminator 2: Judgment Day]({{ site.baseurl }}/guides/terminator-2-judgment-day/) | Williams | 1991 |
