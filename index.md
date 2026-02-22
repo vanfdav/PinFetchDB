@@ -8,6 +8,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 |---------|-------------|------|
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
+| [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
