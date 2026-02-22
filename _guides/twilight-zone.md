@@ -3,70 +3,78 @@ layout: "guide"
 title: "Twilight Zone \u2014 Tournament Strategy Guide"
 machine_name: "Twilight Zone"
 opdb_id: "GrXzD-MjBPX"
-manufacturer: "Unknown"
-year: "Unknown"
+manufacturer: "Bally"
+year: 1993
 date: "2026-02-22"
 ---
 
 ## About the Table
-Twilight Zone (Bally, 1993) is a complex pinball machine themed after the classic TV series. It features a unique ceramic Powerball, gumball machine, clock mechanism, and mini-playfield. The game offers deep rule stacking and multiple multiball modes, making it ideal for high-scoring tournament play when properly understood.
+Twilight Zone (Bally, 1993) is a complex table themed around the classic TV series, featuring a unique ceramic Powerball, gumball machine, mini-playfield, and 6-ball multiball. Known for its incredible scoring potential and bonus-heavy gameplay, it's considered one of the most challenging and rewarding tournament machines.
 
 ## Skill Shots
-The skill shot involves soft plunging to hit colored switches for varying point values. However, **for tournament play, it's safer to full plunge and skip the skill shot entirely** to avoid risky bumper kickouts that can lead to immediate drains. The risk/reward ratio doesn't favor the skill shot in competitive play.
+The skill shot involves soft plunging to hit colored switches for varying point values, but **full plunging is safer** for tournament play to avoid risky bumper kickouts. The super skill shot can light Battle the Power for later use. In tournament settings, prioritize ball control over skill shot points.
 
 ## Early Game Strategy
-**Priority sequence for first 30 seconds:**
-1. **Shoot left ramp (GUM) and right ramp (BALL) alternately** to light lock shots and build toward multiball
-2. **Lock 1-2 balls immediately** by shooting the upper right lock when lit
-3. **Avoid the gumball machine early** - save gumball shots until you have enough to guarantee getting the Powerball (they stack), so you don't help opponents get closer to it
-4. Focus on safe, repeatable ramp shots to build toward your first multiball
+**Priority shots for the first 30 seconds:**
+- Shoot both ramps (left "GUM" and right "BALL") to light locks and the gumball machine
+- Full plunge for safety rather than attempting skill shots
+- Focus on controlled flipper passes and safe shots
+- Avoid the dangerous outlanes and side targets early on
+
+**Key early setup:** Get both ramps completed quickly to enable gumball scoring and multiball qualification.
 
 ## Mid Game Strategy
-**Main scoring approach - "Multiballs all day":**
-1. **Start multiball with 3 balls locked** for maximum jackpot value (Piano shot for jackpot, Camera shot to relight)
-2. **Use multiball stacking**: During any multiball, shoot Piano or Slot Machine to start episode modes simultaneously
-3. **Key scoring shots during multiball:**
-   - Piano shot awards the main jackpot (lit immediately when multiball starts)
-   - Camera shot relights jackpot after collection
-   - Slot Machine during "Clock Chaos" awards 10-20M per shot
-4. **Powerball strategy**: When obtained, shoot right orbit to start Powerball Mania (50M defeat-the-Power jackpot available)
-5. **Use Powerball for double jackpots** during Gum-Ball multiball if properly detected
+**Primary scoring focus:**
+- **Gumball Machine**: Shoot right orbit when lit for guaranteed 15M (first), 20M (second), 25M (third and beyond)
+- **Multiball**: Lock 3 balls and start multiball - jackpots at the piano, relit at the camera
+- **5 Million Targets**: These yellow targets actually award **10 million points** each and build jackpot values
+- **Spiral Shots**: Right/left orbits award 10M/10M/15M for first three shots, then 15M "Breakthrough" points
+
+**Multiball stacking priorities:**
+1. Standard 3-ball multiball via locks
+2. Fast Lock multiball (shoot left ramp after locking 1+ balls)
+3. Save Powerball Mania for when jackpots are built up
 
 ## Late Game Strategy
-**End-of-ball priorities:**
-1. **Never tilt** - most of TZ's scoring comes from bonus multipliers and end-of-ball awards
-2. **Save "Collect Bonus" camera award** until after big scoring rounds like Powerball Mania
-3. **If you get a replay/EB from score bonus, press both flippers as first reel stops for extra 5M**
-4. **Focus on completed objectives** rather than starting new modes near ball end
-5. Trap up and play conservatively if you have a strong bonus built up
+**End-of-ball considerations:**
+- **Never tilt** - most points come from bonus
+- Save "Collect Bonus" camera award until after big scoring (Powerball Mania, modes)
+- If getting a replay/extra ball, press both flippers as first reel stops for extra 5M
+- Focus on safe shots to build bonus rather than risky mode attempts
+
+**Conservative play:** Trap up when bonus is substantial - bonus can be worth more than risky shot attempts.
 
 ## Multiballs
-**Available multiballs:**
-1. **Gum-Ball Multiball** (3-ball): Lock 3 balls, start with Piano or left ramp. Piano = jackpot, Camera = relight
-2. **Powerball Mania** (variable): Get Powerball from gumball, shoot right orbit. Battle the Power on mini-playfield for 50M
-3. **Fast Lock** (2-ball): Quickly lock 2 balls for instant 2-ball multiball
-4. **Lost in the Zone** (6-ball): Wizard mode after collecting all door panels - massive scoring potential
-5. **Clock Multiball**: Based on clock mechanism timing
+**Standard Multiball (3-ball):**
+- Start: Lock 3 balls or shoot left ramp after locking 1+
+- Strategy: Piano for jackpots, camera to relight
+- Jackpot value increases with 5M targets hit
 
-**Stacking strategy**: Start episode modes during any multiball by shooting Piano/Slot for exponential scoring increases.
+**Powerball Mania (3-ball):**
+- Start: Get Powerball from gumball machine, shoot right orbit
+- Strategy: Powerball jackpots worth double at piano
+- **Camera "cheat" jackpots:** Shoot camera during jackpot animation for additional jackpots
+
+**Lost in the Zone (6-ball):**
+- Start: Collect 14 door panels
+- Strategy: Ultimate scoring mode with almost everything lit
+- Extremely rare in tournament play due to requirements
 
 ## Key Tips
-- **Hold upper left flipper up when shooting camera** - makes the shot significantly easier
-- **Yellow "5 million" targets actually award 10 million** to your score
-- **Left orbit → Hitchhiker lane combo within 2 seconds = Triple Pickup** (3 hitchhikers)
-- **Slot Machine → Piano sequence** can award double jackpot (game thinks you used Powerball)
-- **Battle the Power**: Mash both flippers rapidly on mini-playfield to control magnets and defeat the Power
-- **Save gumball shots** until you can guarantee Powerball - don't help opponents get closer
-- **Right ramp during LITZ** gives good chance at "cheat" jackpots from camera even without real jackpots
-- **Light extra ball via door prize first** before collecting any other EBs to maximize awards
-- **"Collect Bonus" camera award is massive** after big scoring rounds - time it strategically
+- **Yellow "5 million" targets actually award 10 million** - prioritize these for jackpot building
+- **Save gumball shots** until you have enough to get Powerball out (they stack)
+- **Camera shot easier** when holding upper left flipper up
+- **Double jackpots**: Use Powerball to collect jackpot, or shoot slot machine immediately after piano
+- **Battle the Power**: Mash flippers on mini-playfield for 50M jackpot
+- **Light extra ball via door first** before collecting other EBs to maximize door prize value
+- **LITZ cheat**: Shoot right ramp early in LITZ for camera jackpots even without real jackpots
+- **Tournament ROM**: Ensures fair scoring up to 1 trillion points with proper Powerball detection
 
 ## Sources
 - MatchPlay PinTips: https://pintips.net/games/46
-- San Diego Pinball Wiki: https://pinball.miraheze.org/wiki/Twilight_Zone
-- Sigma's Comprehensive Rules: https://pinball.org/rules/twilightzone.html
+- San Diego Pinball Wiki: https://pinball.miraheze.org/wiki/Twilight_Zone  
+- Pinball Archive Rules: https://pinball.org/rules/twilightzone.html
 - Bowen Kerins Rulesheet: https://www.ipdb.org/rulesheets/2684/TZBOWEN.HTM
-- GameFAQs Strategy Guide: https://gamefaqs.gamespot.com/pinball/915948-twilight-zone/faqs/1466
+- PAPA Tutorial: https://www.youtube.com/watch?v=DYy0aNj9GLU
 - Kineticist Tutorial: https://www.kineticist.com/post/twilight-zone-pinball-tutorial
-- Pinside Strategy Discussions: https://pinside.com/pinball/forum/topic/twilight-zone-playing-strategy-for-newbie
-- Digital Pinball Fans Tactics: https://digitalpinballfans.com/threads/tz-tactics-and-strategies.2777/
+- Digital Pinball Fans Strategy: https://digitalpinballfans.com/threads/tz-tactics-and-strategies.2777/
