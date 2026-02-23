@@ -7,6 +7,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | Machine | Manufacturer | Year |
 |---------|-------------|------|
 | [Attack from Mars]({{ site.baseurl }}/guides/attack-from-mars/) | Bally | 1995 |
+| [Beetlejuice]({{ site.baseurl }}/guides/beetlejuice/) | Spooky Pinball | 2025 |
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
 | [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
