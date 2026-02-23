@@ -9,78 +9,46 @@ date: "2026-02-23"
 ---
 
 ## About the Table
-Attack from Mars (Bally, 1995) is a space invasion themed machine featuring flying saucers that physically move on the playfield. The game centers around defending Earth from Martian invaders through various Attack Waves while building toward the ultimate Rule the Universe multiball that can award 10 billion points.
+Attack from Mars (Bally, 1995) is a space invasion-themed table where players defend Earth against Martian attackers. The game features multiple multiballs, a captive ball saucer mechanism, and the ultimate goal of achieving "Rule the Universe" status by scoring 5 billion points in the final wizard mode.
 
 ## Skill Shots
-**Regular Skill Shot**: Hold left flipper during launch, then hit any major shot within a few seconds for 50M points plus completion of that lane/feature. Best options are the right ramp (completes Tractor Beam progress) or left ramp (advances lock progress).
+**Regular Skill Shot**: Hold left flipper during launch, then shoot any major shot within a few seconds for 50 million points plus completion of that shot's requirements. This is extremely valuable for early game setup.
 
-**Super Skill Shot**: Full plunge to hit the center drop target bank. Only use this when the center bank is still up - if already down, stick to regular skill shot. Super skill shot can spot all three lights on one of the four major shots needed for Total Annihilation.
+**Super Skill Shot**: Plunge at full power to hit the center Martian target bank. Only use this when the bank is up - if it's already down, stick with regular skill shot. The super skill shot can spot all three lamps on one of the four major shots needed for Total Annihilation.
 
 ## Early Game Strategy
-1. **Always complete skill shot** - 50M is significant early scoring
-2. **Lower the forcefield immediately** by hitting the center drop targets - this opens the saucers for Attack Waves
-3. **Start Attack Waves** - shoot lit saucers for safe, repeatable scoring of 20M/25M/30M per wave
-4. **Build toward multiball** - shoot the left ramp area to light locks after completing required shots
-5. **Avoid dangerous shots** - the center scoop can be unpredictable in early game
+Start every ball with the regular skill shot for guaranteed 50 million points. Choose your target shot strategically - hitting the right ramp completes Tractor Beam, while hitting orbits or left ramp advances Total Annihilation progress. Focus on lighting and completing the four major shots (both ramps, both orbits) three times each to build toward Total Annihilation multiball. The center scoop awards Stroke of Luck (50 million in tournament mode), making it a reliable early-game scoring shot.
 
 ## Mid Game Strategy
-Focus on **Total Annihilation qualification** as the primary scoring opportunity:
-- Complete all 4 major shots (left ramp, right ramp, left orbit, right orbit) 3 times each
-- This starts 4-ball Total Annihilation multiball
-- **Key tip**: Complete all 4 shots WITHOUT hitting the forcefield to get both Total Annihilation AND a 1 billion point hurry-up collect
+**Total Annihilation Priority**: The safest tournament strategy is to focus on Total Annihilation multiball. Complete both ramps and both orbits three times each (12 shots total) to start this valuable 4-ball multiball where all shots award jackpots. During Total Annihilation, prioritize orbits and ramps to build jackpot values, with the inner left ramp (lock shot) collecting the jackpot.
 
-**Alternative path**: Work on regular 3-ball multiball by lighting locks at the left ramp, then shooting the lock. More shots required for subsequent multiball starts.
-
-**Martian Attack path**: Complete M-A-R-T-I-A-N standup targets to light Martian Attack multiball at the right scoop.
+**Attack Waves Alternative**: Complete the six Attack Waves by destroying saucers, but this is riskier due to the dangerous center saucer shot. If the forcefield is down, you can safely attack saucers during multiball when ball save is active.
 
 ## Late Game Strategy
-**If Total Annihilation is qualified**: Start it immediately - this is your biggest scoring opportunity. During TA, focus on orbits and ramps to build jackpot values, collect at the inner left ramp.
-
-**If multiball is lit**: Start multiball and focus on completing all 5 jackpots to light the roving super jackpot for massive points.
-
-**Conservative play**: If ahead, focus on safe Attack Wave completions and avoid risky center shots. Each saucer destruction is worth solid points with minimal risk.
-
-**End-of-ball bonus**: Complete inlane/outlane lights for Stroke of Luck bonus. Pop bumper hits build Super Jets bonus.
+As the game progresses, stack multiballs for maximum scoring. The ideal sequence is to start regular 3-ball multiball (via the lock shot) during Martian Attack before destroying the fourth Martian, creating a powerful multiball stack. During any multiball, focus on jackpot collection rather than risky shots. Always open the forcefield before starting multiball since you cannot lower it during multiball play.
 
 ## Multiballs
+**Regular Multiball**: Light locks by shooting the lane left of the saucer, then lock three balls. Collect five jackpots to light the roving super jackpot.
 
-**Total Annihilation (4-ball)**: 
-- Qualification: Hit each major shot (both ramps, both orbits) 3 times
-- Strategy: Shoot orbits and ramps to increase jackpot value, collect jackpots at inner left ramp
-- Can score billions of points if managed properly
+**Total Annihilation**: 4-ball multiball started by completing both ramps and orbits 3x each. All shots award jackpots - prioritize orbits and ramps to build values, collect at inner left ramp.
 
-**Regular Multiball (3-ball)**:
-- Start by lighting locks, then shooting the lock
-- Complete 5 jackpots to light roving super jackpot
-- Super jackpot increases values for subsequent multiballs
+**Martian Attack**: Started via Stroke of Luck mystery award. Defeat moving Martian targets within 30 seconds. Stack with regular multiball for maximum scoring.
 
-**Martian Attack Multiball**:
-- Start by completing M-A-R-T-I-A-N targets, then shooting right scoop
-- Can be stacked with regular multiball for massive scoring
-- Use Martian Bombs (launch button) to defeat Martians quickly
-
-**Strobe Multiball**:
-- Mystery award multiball option
-- Less predictable but still valuable for jackpot collection
+**Rule the Universe**: Ultimate 4-ball multiball requiring completion of six objectives. Goal is 5 billion points for an additional 5 billion bonus and "Ruler of the Universe" status.
 
 ## Key Tips
-
-• **Always lower forcefield before starting any multiball** - you can't during multiball, and saucers are easy targets during multiball
-• **Use launch button as smart bomb** during video mode to clear all saucers
-• **"Dirty Pool" technique**: In multiball, shoot second ball into saucer right after destroying it to trap ball and one-shot the next saucer
-• **Martian Bomb usage**: Press launch button during Martian Attack to use bombs and defeat Martians instantly
-• **Super skill shot timing**: Only use when center bank is up, otherwise do regular skill shot
-• **Lock hop-over**: On games without super-bands, raise left flipper after lock, nudge to feed right flipper, re-shoot lock
-• **Mystery award prediction**: On ROM 1.13b, mystery awards follow predictable patterns in tournament mode
-• **Total Annihilation priority**: Focus on TA over other modes - it's the highest scoring opportunity
-• **Victory Lap maximization**: During Rule the Universe, maximize laps as values can reach 500M per lap
-• **Avoid center scoop early** unless specifically needed - unpredictable awards can disrupt strategy
+- **Martian Bomb**: Press launch button during Martian Attack or video mode to use a smart bomb that destroys all targets/saucers
+- **Dirty Pool**: Shooting a second ball into a recently destroyed saucer scores instant points for the next undefeated saucer
+- **Post-Lock Feed**: On tables without super-bands, raise left flipper and nudge after lock to feed right flipper for another lock shot
+- **Video Mode Secret**: Hit launch button when a cow appears during Tractor Beam for Cow Attack video mode
+- **Avoid Center Saucer**: The most dangerous shot on the table - only attempt during multiball with ball save active
+- **Tournament Mode**: Stroke of Luck always awards exactly 50 million points, removing randomization
+- **Forcefield Management**: Always lower the forcefield before starting any multiball for safe saucer destruction
 
 ## Sources
-- [MatchPlay PinTips for Attack from Mars](https://app.matchplay.events/pintips/G4do5-MDlN7)
-- [Attack from Mars Rules - Pinball.org](https://www.pinball.org/rules/attackfrommars.html)
-- [Attack from Mars Strategy Guide - GameFAQs](https://gamefaqs.gamespot.com/pinball/915952-attack-from-mars/faqs/1475)
-- [Attack from Mars Rule Sheet - IPDB](https://www.ipdb.org/rulesheets/3781/afmrules.html)
-- [Attack from Mars Tutorial - Kineticist](https://www.kineticist.com/post/attack-from-mars-pinball-tutorial)
+- [MatchPlay PinTips - Attack from Mars](https://app.matchplay.events/pintips/machines/G4do5-MDlN7)
+- [Pinball.org - Attack from Mars Rules](https://www.pinball.org/rules/attackfrommars.html)
+- [Attack from Mars Strategy Guide - Kineticist](https://www.kineticist.com/post/attack-from-mars-pinball-tutorial)
+- [Attack from Mars Rulesheet - IPDB](https://www.ipdb.org/rulesheets/3781/afmrules.html)
 - [Attack from Mars Tournament Guide - Colorado Pinball](https://www.colorado-pinball.com/wp-content/uploads/2018/08/Attack-From-Mars.pdf)
-- [Rules for Attack From Mars - Pinball Wiki](https://pinball.fandom.com/wiki/Rules_for_Attack_From_Mars)
+- [Attack from Mars Mini-Guide - Pinball for Mortals](https://www.pinballformortals.com/2019/07/20/attack-from-mars-pinball-mini-guide/)
