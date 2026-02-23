@@ -9,58 +9,51 @@ date: "2026-02-23"
 ---
 
 ## About the Table
-Beetlejuice is a 2025 release from Spooky Pinball based on Tim Burton's classic film. The table features an asymmetrical, dense playfield with four flippers (two lower, one upper right, one upper left), an upper playfield area, and unique features like an under-flipper magnet save system and the innovative "Afterlife Couch" multiball mechanism. The game includes extensive stacking opportunities for modes, multiballs, and scoring multipliers.
+Beetlejuice is a 2025 pinball machine by Spooky Pinball based on Tim Burton's classic film. The machine features an asymmetrical, dense playfield layout with four flippers (two lower, one upper right, one upper left), extensive stacking capabilities, and film-authentic audio from Danny Elfman's score and Harry Belafonte's "Day-O." The machine is designed with an intentionally unforgiving layout aimed at skilled players who value precision and deep strategy.
 
 ## Skill Shots
-Information on specific skill shots is limited due to the machine's recent release. The plunge system includes a custom diverter that sends balls either to the right inlane or toward the drain, suggesting skill shot opportunities may involve timing or flipper control during the plunge sequence. Early reports suggest there are multiple skill shot options, but specific scoring values and techniques are not yet documented.
+Information on specific skill shots is limited for this new release. The machine features a custom diverter on ball plunge that sends balls either to the right inlane or alternative paths. Focus on learning the plunge strength needed to hit specific targets or advance particular modes during the skill shot phase.
 
 ## Early Game Strategy
-Focus on learning the four-flipper layout and shot geometry, as this is crucial for tournament success. The dense, asymmetrical playfield requires precise flipper control. Priority should be given to:
-- Establishing basic shot patterns from all four flippers
-- Understanding the upper playfield flow and entry shots
-- Testing the dual lift ramp system that feeds the Afterlife Couch
-- Avoiding early drains while learning the unconventional ball paths
-
-The under-flipper magnet save system can rescue balls draining down outlanes, but don't rely on it - treat it as a bonus rather than a safety net.
+- Roll through either inlane to light the camera targets in the center of the playfield - these flash when lit and provide scoring opportunities
+- Focus on safe shots to build base scoring before attempting riskier features
+- Work on ball control with the four-flipper system, as precise flipper work will be crucial for success
+- Identify and practice the safest repeatable shots on the dense, asymmetrical layout
 
 ## Mid Game Strategy
-The game's extensive stacking capabilities are key to tournament scoring. Focus on:
-- Building up multiple modes simultaneously before starting multiball
-- Using the right-side upper flipper for cross-playfield shots to maximize scoring opportunities  
-- Working toward the Sandworm battle mode, which appears to be a major scoring feature
-- Progressing through film-themed sequences (Saturn drop, Juno interactions, digging up Beetlejuice)
-- Utilizing the upper playfield area controlled by the dedicated upper-left flipper for consistent scoring
-
-Mode stacking appears to be the primary path to big scores, so resist the urge to start multiballs too early.
+- **Dual Lift Ramp**: This is a key shot that loads balls onto the "Afterlife Couch" near the upper playfield, setting up multiball opportunities
+- Utilize the extensive stacking system - modes, multiballs, and scoring multipliers can overlap significantly
+- Work the upper playfield area with the dedicated upper-left flipper for additional scoring
+- Target film-themed modes including battling the sandworm, working with Case Worker Juno, and Beetlejuice sequences
+- Camera targets become critical scoring opportunities when lit via inlane rolls
 
 ## Late Game Strategy
-With the game's stacking potential, late-game strategy should focus on:
-- Activating multiball when multiple modes and multipliers are already running
-- Managing the four-flipper system during multiball chaos
-- Using the upper playfield as a safer area to control balls during multiball
-- Making strategic use of the Afterlife Couch multiball when scoring multipliers are maximized
-
-End-of-ball bonus details are not yet available, but focus on completing high-value modes before ball drain.
+- Prioritize multiball play for maximum scoring potential, as the machine allows extensive feature stacking
+- Use ball control skills to manage the four-flipper system effectively during pressure situations
+- Focus on completing higher-value modes rather than starting new ones late in the ball
+- Be conservative with dangerous shots unless jackpots or major scoring opportunities are available
 
 ## Multiballs
-**Afterlife Couch Multiball**: The primary multiball feature. Shoot the dual lift ramp to load balls onto the Afterlife Couch near the upper playfield. The couch tips over to release three balls for multiball action. This appears to be the main multiball, so stack scoring opportunities before starting it.
-
-Additional multiball modes are referenced (including potential "It's Showtime" multiball triggered by three "Beetlejuice" locks) but specifics are not yet documented.
+- **Primary Multiball**: Started by shooting the dual lift ramp to load balls onto the Afterlife Couch, which tips over to release balls for 3-ball multiball
+- The couch mechanism is a key feature for multiball locks and releases
+- Additional multiball modes likely exist but specific details are not yet documented
+- Multiball stacking appears to be a significant part of the scoring strategy
 
 ## Key Tips
-- Master the four-flipper layout early - this is unconventional and requires practice
-- The under-flipper magnet save system can rescue outlane drains, but don't depend on it
-- Prioritize mode stacking over quick multiball starts for maximum tournament scoring
-- The dual lift ramp feeding the Afterlife Couch appears to be a key repeatable shot
-- Dense playfield layout means precision is crucial - avoid wild flipping
-- Cross-playfield shots from the upper right flipper are important for accessing certain features
-- Upper playfield area offers safer ball control during multiball
+- Master the four-flipper layout early, as precise flipper control is essential for this unforgiving design
+- Learn the camera target timing - they flash when lit and provide consistent scoring
+- The dual lift ramp to the Afterlife Couch is crucial for multiball access
+- Take advantage of the extensive stacking system to maximize scoring multipliers
+- Practice upper playfield shots with the dedicated upper-left flipper
+- The dense, asymmetrical layout requires patience and precision over speed
+- Focus on film mode completion for major scoring opportunities
+- Ball save and nudging skills will be critical on this challenging layout
 
 ## Sources
-- [Spooky Pinball Reveals Beetlejuice Pinball: Everything We Know About the Release | Kineticist](https://www.kineticist.com/post/spooky-pinball-reveals-beetlejuice-pinball)
-- [Pinball Heaven Blog](https://www.pinball.co.uk/blog/)
-- [Beetlejuice Pinball hype thread | Spooky Pinball | Pinside.com](https://pinside.com/pinball/forum/topic/beetlejuice-pinball-hype-thread/page/35)
-- [Beetlejuice Pinball Machine | Pinside Game Archive](https://pinside.com/pinball/machine/beetlejuice)
-- [Dirty Pool Podcast - Ep21 - Beetlejuice Brains & Spooky Pinball Logic from Bug](https://dirtypoolpinball.podbean.com/e/dirty-pool-podcast-ep21-beetlejuice-brains-spooky-pinball-logic-from-bug)
+- [Spooky Pinball Reveals Beetlejuice Pinball: Everything We Know About the Release - Kineticist](https://www.kineticist.com/post/spooky-pinball-reveals-beetlejuice-pinball)
+- [Beetlejuice Pinball Machine - Pinside Game Archive](https://pinside.com/pinball/machine/beetlejuice)
+- [Spooky Pinball - Beetlejuice Product Page](https://www.spookypinball.com/?post_type=product&p=4891)
+- [Pinball Heaven - Beetlejuice Analysis](https://www.pinball.co.uk/blog/)
+- [MatchPlay PinTips - Beetlejuice](https://app.matchplay.events/opdb) (No community tips available yet)
 
-*Note: This guide is based on pre-release information and early gameplay reports. Tournament strategies will be refined as more competitive play data becomes available.*
+**Note**: This machine is extremely new (2025 release), so tournament-specific strategies are still being developed by the competitive community. This guide will need updates as more players gain experience with the machine and optimal strategies emerge.
