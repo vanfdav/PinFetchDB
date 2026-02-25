@@ -13,6 +13,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Dune]({{ site.baseurl }}/guides/dune/) | Barrels of Fun | 2025 |
 | [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
+| [Ghostbusters (Premium)]({{ site.baseurl }}/guides/ghostbusters-premium/) | Stern | 2016 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
