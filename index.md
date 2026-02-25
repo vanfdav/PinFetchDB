@@ -21,6 +21,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
 | [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
 | [Tales of the Arabian Nights]({{ site.baseurl }}/guides/tales-of-the-arabian-nights/) | Williams | 1996 |
+| [Taxi]({{ site.baseurl }}/guides/taxi/) | Williams | 1988 |
 | [Teenage Mutant Ninja Turtles (Premium)]({{ site.baseurl }}/guides/teenage-mutant-ninja-turtles-premium/) | Stern | 2020 |
 | [Terminator 2: Judgment Day]({{ site.baseurl }}/guides/terminator-2-judgment-day/) | Williams | 1991 |
 | [Twilight Zone]({{ site.baseurl }}/guides/twilight-zone/) | Bally | 1993 |
