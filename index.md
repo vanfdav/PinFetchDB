@@ -15,6 +15,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
 | [Ghostbusters (Premium)]({{ site.baseurl }}/guides/ghostbusters-premium/) | Stern | 2016 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
+| [Gorgar]({{ site.baseurl }}/guides/gorgar/) | Williams | 1979 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
