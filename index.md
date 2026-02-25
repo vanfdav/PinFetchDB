@@ -19,6 +19,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
+| [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
 | [Tales of the Arabian Nights]({{ site.baseurl }}/guides/tales-of-the-arabian-nights/) | Williams | 1996 |
 | [Teenage Mutant Ninja Turtles (Premium)]({{ site.baseurl }}/guides/teenage-mutant-ninja-turtles-premium/) | Stern | 2020 |
 | [Terminator 2: Judgment Day]({{ site.baseurl }}/guides/terminator-2-judgment-day/) | Williams | 1991 |
