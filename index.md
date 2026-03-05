@@ -17,6 +17,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Ghostbusters (Premium)]({{ site.baseurl }}/guides/ghostbusters-premium/) | Stern | 2016 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
 | [Gorgar]({{ site.baseurl }}/guides/gorgar/) | Williams | 1979 |
+| [Guardians of the Galaxy (Premium)]({{ site.baseurl }}/guides/guardians-of-the-galaxy-premium/) | Stern | 2017 |
 | [High Speed]({{ site.baseurl }}/guides/high-speed/) | Williams | 1986 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
