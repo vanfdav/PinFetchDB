@@ -32,5 +32,6 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Taxi]({{ site.baseurl }}/guides/taxi/) | Williams | 1988 |
 | [Teenage Mutant Ninja Turtles (Premium)]({{ site.baseurl }}/guides/teenage-mutant-ninja-turtles-premium/) | Stern | 2020 |
 | [Terminator 2: Judgment Day]({{ site.baseurl }}/guides/terminator-2-judgment-day/) | Williams | 1991 |
+| [The Beatles (Diamond)]({{ site.baseurl }}/guides/the-beatles-diamond/) | Stern | 2018 |
 | [Twilight Zone]({{ site.baseurl }}/guides/twilight-zone/) | Bally | 1993 |
 | [Venom (Premium)]({{ site.baseurl }}/guides/venom-premium/) | Stern | 2023 |
