@@ -8,6 +8,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 |---------|-------------|------|
 | [Attack from Mars]({{ site.baseurl }}/guides/attack-from-mars/) | Bally | 1995 |
 | [Beetlejuice]({{ site.baseurl }}/guides/beetlejuice/) | Spooky Pinball | 2025 |
+| [Bride of Pinbot 2.0]({{ site.baseurl }}/guides/bride-of-pinbot-2-0/) | Dutch Pinball | 2014 |
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
 | [Dune]({{ site.baseurl }}/guides/dune/) | Barrels of Fun | 2025 |
