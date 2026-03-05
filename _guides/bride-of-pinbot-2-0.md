@@ -9,37 +9,39 @@ date: "2026-03-05"
 ---
 
 ## About the Table
-Bride of Pinbot 2.0 is Dutch Pinball's 2014 P-ROC-based conversion kit for the original 1991 Williams machine. This modernized version features a completely rewritten rule set with 3-ball multiballs, 12 unique wheel modes, a wizard mode, and balanced scoring that transforms the original game's limited strategy into a deep, competitive experience.
+Bride of Pinbot 2.0 is Dutch Pinball's 2014 modernization of the classic Williams 1991 machine, featuring a completely new rule sheet built on P-ROC technology. The game retains the original playfield layout but adds 3-ball multiballs, unique wheel modes, a wizard mode, and a billion-point shot opportunity through the Big Wheel system.
 
 ## Skill Shots
-The skill shot awards 5x the value of the lit lane. For maximum tournament value, plunge for the 25K (last lane) or 50K (first lane) super skill shot. These values are doubled in the bonus calculation, making them effectively worth 50K and 100K respectively. The super skill shot is easily achievable with consistent plunging and provides excellent risk/reward ratio for tournament play.
+The plunger offers skill shots into the lit lanes for 5x value multipliers. The super skill shot awards either 25k (last lane) or 50k (first lane), with these points also counting toward bonus - effectively making them worth 10x their face value. Always plunge for the super skill shot as it's easy and provides substantial value with minimal risk.
 
 ## Early Game Strategy
-Start every ball by immediately shooting the left ramp to begin building toward multiball. The left ramp lights the heartbeat ramp, which then lights locks when shot. Focus on this sequence: left ramp → heartbeat ramp → lock balls on the ramp. Simultaneously, hit the far left scoop (saucer) to start small wheel modes whenever possible. Avoid risky shots to the right orbit or dangerous areas early in the ball.
+Start each ball by plunging for the super skill shot to maximize early scoring and bonus building. Focus on hitting the left ramp consistently as it's the safest repeatable shot and progresses the heartbeat ramp sequence. Shoot the far left saucer to start small wheel modes immediately, as completing these provides 30 seconds of double scoring and lights big wheel modes for massive points.
 
 ## Mid Game Strategy
-The core tournament strategy revolves around the wheel mode system. Complete small wheel modes to activate 30 seconds of double scoring and light big wheel modes. During double scoring periods, concentrate on starting and completing big wheel modes for massive point values. The small wheel has a 1/6 chance of lighting jackpot directly, making repeated left scoop shots viable in tournament mode with locked 8M jackpots. All big wheel modes can score their values multiple times until the timer expires, so keep repeating the required shots.
+The core strategy revolves around wheel mode progression and multiball preparation. Complete small wheel modes to activate double scoring periods, then immediately start big wheel modes during the 2x scoring window for maximum value. All big wheel modes can score their values multiple times until the timer expires, so focus on repeating the appropriate shots quickly. Build toward multiball by shooting the left ramp to light the heartbeat ramp, then hitting the heartbeat ramp to light locks.
 
 ## Late Game Strategy
-Focus on bonus multiplier building by hitting the 5K targets throughout the game, as bonus can become huge. If multiball is available, prioritize it for the doubled scoring opportunities. Use the left flipper hold technique (works on most machines) to easily feed the right flipper for controlled shots to the bride's face. Avoid unnecessary risks and trap up when ahead, but be aggressive with wheel modes during double scoring periods.
+During multiball, prioritize the heartbeat ramp from the left flipper for single, double, and triple jackpot opportunities. Target the 5k targets during multiball to increase bonus multiplier, as bonus can become huge. If the Big Wheel lands on the billion-point award, you have 12 seconds to shoot the heartbeat ramp - this is the game's ultimate scoring opportunity and should be your primary focus when available.
 
 ## Multiballs
-Start multiball by locking 3 balls on the heartbeat ramp (after lighting locks via left ramp → heartbeat sequence). During multiball, all scoring is doubled except for big wheel awards and jackpots. Focus on the heartbeat ramp from the left flipper for single, double, and triple jackpot opportunities. Metamorphosis multiball can be started by shooting both balls up the left ramp, then shooting again for the big wheel. Target the Billionaire's Club shot in the center during this mode.
+Lock three balls on the ramp to start the main multiball with all shots lit for jackpots. The 2.0 rules feature story-based multiball progression where shooting the heartbeat ramp first enables 2x and 3x jackpot multipliers. After collecting 6 jackpots, a super jackpot becomes available. The default setting requires only 3 jackpots to complete Multiball 1, making it very achievable in tournament play.
 
 ## Key Tips
-- Shoot the left ramp constantly - it's the safest, most important shot on the table
-- Complete small wheel modes for 30-second double scoring and big wheel mode access
-- During multiball, prioritize heartbeat ramp from left flipper for jackpot progression
-- Hit 5K targets throughout the game to build bonus multiplier
-- Big wheel modes can be scored multiple times - keep shooting until timer expires
-- Use left flipper hold for easy right flipper feeds to bride's face
-- In tournament mode, repeated left scoop shots can be worth it for jackpot lighting
-- The 1 billion shot requires spinning the big wheel with 2 balls on the face, then hitting heartbeat ramp within 12 seconds if you land on 1B
-- Wheel modes interrupted by multiball will continue after multiball ends
+- The left ramp is the most consistent and safe shot - shoot it repeatedly
+- Small wheel modes have a 1/6 chance of lighting jackpot in tournament mode with locked 8M jackpot value
+- Hold the left flipper up for easy feeds to the right flipper to shoot the bride's face
+- Metamorphosis (fourth face) is key to accessing the Big Wheel billion opportunity
+- Shoot both balls up the left ramp during multiball for Metamorphosis and Big Wheel access
+- Target the center shot during Big Wheel for Billionaire's Club
+- Right orbit shot four times lights a timed jackpot at the left lane for instant millions
+- All scoring doubles during multiball except Big Wheel awards, jackpots, and Power Charges
+- Big wheel modes during double scoring can provide enormous point values
 
 ## Sources
-- [MatchPlay PinTips - Bride of Pinbot 2.0](https://app.matchplay.events/games/GRpee-MJkyr/tips)
+- [MatchPlay PinTips](https://app.matchplay.events/opdb)
 - [SD Pinball Wiki - Bride of Pinbot 2.0](https://pinball.miraheze.org/wiki/Bride_of_Pinbot_2.0)
-- [Dutch Pinball - Bride of Pinbot 2.0](https://www.dutchpinball.com/bride_of_pinbot_2.0)
 - [Ministry of Pinball - Bride of Pinbot 2.0](https://www.ministryofpinball.com/en/bride-of-pinbot-2-0.html)
-- [Pinside Game Archive - Bride of Pinbot 2.0](https://pinside.com/pinball/machine/bride-of-pinbot-20)
+- [Pinside Game Archive](https://pinside.com/pinball/machine/bride-of-pinbot-20)
+- [Dutch Pinball Official Page](https://www.dutchpinball.com/bride_of_pinbot_2.0)
+- [Digital Pinball Fans Strategy Discussion](https://digitalpinballfans.com/threads/bride-of-pinbot-tactics-and-strategies.1732/)
+- [Fun With Bonus Gameplay Analysis](https://funwithbonus.com/bride-of-pinbot-2-0-gameplay/)
