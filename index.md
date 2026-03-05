@@ -20,6 +20,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Guardians of the Galaxy (Premium)]({{ site.baseurl }}/guides/guardians-of-the-galaxy-premium/) | Stern | 2017 |
 | [High Speed]({{ site.baseurl }}/guides/high-speed/) | Williams | 1986 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
+| [Pabst Can Crusher]({{ site.baseurl }}/guides/pabst-can-crusher/) | Stern | 2016 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
 | [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
