@@ -22,6 +22,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Guardians of the Galaxy (Premium)]({{ site.baseurl }}/guides/guardians-of-the-galaxy-premium/) | Stern | 2017 |
 | [High Speed]({{ site.baseurl }}/guides/high-speed/) | Williams | 1986 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
+| [Lethal Weapon 3]({{ site.baseurl }}/guides/lethal-weapon-3/) | Data East | 1992 |
 | [Metallica Remastered (Premium)]({{ site.baseurl }}/guides/metallica-remastered-premium/) | Stern | 2024 |
 | [Pabst Can Crusher]({{ site.baseurl }}/guides/pabst-can-crusher/) | Stern | 2016 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
