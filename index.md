@@ -11,6 +11,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
 | [Dune]({{ site.baseurl }}/guides/dune/) | Barrels of Fun | 2025 |
+| [Dungeons & Dragons: The Tyrant's Eye (Premium)]({{ site.baseurl }}/guides/dungeons-dragons-the-tyrant-s-eye-premium/) | Stern | 2025 |
 | [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
 | [Foo Fighters (Premium)]({{ site.baseurl }}/guides/foo-fighters-premium/) | Stern | 2023 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
