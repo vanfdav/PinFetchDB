@@ -12,6 +12,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
 | [Dune]({{ site.baseurl }}/guides/dune/) | Barrels of Fun | 2025 |
 | [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
+| [Foo Fighters (Premium)]({{ site.baseurl }}/guides/foo-fighters-premium/) | Stern | 2023 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
 | [Ghostbusters (Premium)]({{ site.baseurl }}/guides/ghostbusters-premium/) | Stern | 2016 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
