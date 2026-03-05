@@ -19,6 +19,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
 | [Ghostbusters (Premium)]({{ site.baseurl }}/guides/ghostbusters-premium/) | Stern | 2016 |
 | [Godzilla (Premium)]({{ site.baseurl }}/guides/godzilla-premium/) | Stern | 2021 |
+| [Goldeneye]({{ site.baseurl }}/guides/goldeneye/) | Sega | 1996 |
 | [Gorgar]({{ site.baseurl }}/guides/gorgar/) | Williams | 1979 |
 | [Guardians of the Galaxy (Premium)]({{ site.baseurl }}/guides/guardians-of-the-galaxy-premium/) | Stern | 2017 |
 | [High Speed]({{ site.baseurl }}/guides/high-speed/) | Williams | 1986 |
