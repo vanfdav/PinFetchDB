@@ -30,6 +30,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
 | [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
+| [Star Wars]({{ site.baseurl }}/guides/star-wars/) | Data East | 1992 |
 | [Tales of the Arabian Nights]({{ site.baseurl }}/guides/tales-of-the-arabian-nights/) | Williams | 1996 |
 | [Taxi]({{ site.baseurl }}/guides/taxi/) | Williams | 1988 |
 | [Teenage Mutant Ninja Turtles (Premium)]({{ site.baseurl }}/guides/teenage-mutant-ninja-turtles-premium/) | Stern | 2020 |
