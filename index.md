@@ -40,6 +40,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinball Pool]({{ site.baseurl }}/guides/pinball-pool/) | Gottlieb | 1979 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
+| [Rick and Morty (SE)]({{ site.baseurl }}/guides/rick-and-morty-se/) | Spooky Pinball | 2019 |
 | [Rush (Premium)]({{ site.baseurl }}/guides/rush-premium/) | Stern | 2022 |
 | [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
 | [Star Wars]({{ site.baseurl }}/guides/star-wars/) | Data East | 1992 |
