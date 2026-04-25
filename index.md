@@ -27,6 +27,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Goldeneye]({{ site.baseurl }}/guides/goldeneye/) | Sega | 1996 |
 | [Gorgar]({{ site.baseurl }}/guides/gorgar/) | Williams | 1979 |
 | [Guardians of the Galaxy (Premium)]({{ site.baseurl }}/guides/guardians-of-the-galaxy-premium/) | Stern | 2017 |
+| [Harlem Globetrotters On Tour]({{ site.baseurl }}/guides/harlem-globetrotters-on-tour/) | Bally | 1978 |
 | [High Speed]({{ site.baseurl }}/guides/high-speed/) | Williams | 1986 |
 | [Iron Man]({{ site.baseurl }}/guides/iron-man/) | Stern | 2010 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
