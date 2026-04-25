@@ -38,6 +38,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Old Chicago]({{ site.baseurl }}/guides/old-chicago/) | Bally | 1976 |
 | [Pabst Can Crusher]({{ site.baseurl }}/guides/pabst-can-crusher/) | Stern | 2016 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
+| [Pinball Pool]({{ site.baseurl }}/guides/pinball-pool/) | Gottlieb | 1979 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
 | [Rush (Premium)]({{ site.baseurl }}/guides/rush-premium/) | Stern | 2022 |
 | [South Park]({{ site.baseurl }}/guides/south-park/) | Sega | 1999 |
