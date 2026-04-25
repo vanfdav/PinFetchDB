@@ -53,3 +53,4 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Total Nuclear Annihilation]({{ site.baseurl }}/guides/total-nuclear-annihilation/) | Spooky Pinball | 2017 |
 | [Twilight Zone]({{ site.baseurl }}/guides/twilight-zone/) | Bally | 1993 |
 | [Venom (Premium)]({{ site.baseurl }}/guides/venom-premium/) | Stern | 2023 |
+| [X's & O's]({{ site.baseurl }}/guides/x-s-o-s/) | Bally | 1983 |
