@@ -11,6 +11,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Banzai Run]({{ site.baseurl }}/guides/banzai-run/) | Williams | 1988 |
 | [Batman 66 (Premium)]({{ site.baseurl }}/guides/batman-66-premium/) | Stern | 2016 |
 | [Beetlejuice]({{ site.baseurl }}/guides/beetlejuice/) | Spooky Pinball | 2025 |
+| [Black Knight: Sword of Rage (Premium)]({{ site.baseurl }}/guides/black-knight-sword-of-rage-premium/) | Stern | 2019 |
 | [Bride of Pinbot 2.0]({{ site.baseurl }}/guides/bride-of-pinbot-2-0/) | Dutch Pinball | 2014 |
 | [Cactus Canyon]({{ site.baseurl }}/guides/cactus-canyon/) | Bally | 1998 |
 | [Comet]({{ site.baseurl }}/guides/comet/) | Williams | 1985 |
