@@ -35,6 +35,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Joker Poker]({{ site.baseurl }}/guides/joker-poker/) | Gottlieb | 1978 |
 | [Lethal Weapon 3]({{ site.baseurl }}/guides/lethal-weapon-3/) | Data East | 1992 |
 | [Metallica Remastered (Premium)]({{ site.baseurl }}/guides/metallica-remastered-premium/) | Stern | 2024 |
+| [Old Chicago]({{ site.baseurl }}/guides/old-chicago/) | Bally | 1976 |
 | [Pabst Can Crusher]({{ site.baseurl }}/guides/pabst-can-crusher/) | Stern | 2016 |
 | [Phantom of the Opera]({{ site.baseurl }}/guides/phantom-of-the-opera/) | Data East | 1990 |
 | [Pinbot]({{ site.baseurl }}/guides/pinbot/) | Williams | 1986 |
