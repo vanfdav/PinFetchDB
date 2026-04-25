@@ -32,6 +32,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Iron Man]({{ site.baseurl }}/guides/iron-man/) | Stern | 2010 |
 | [James Bond 007 (60th Anniversary LE)]({{ site.baseurl }}/guides/james-bond-007-60th-anniversary-le/) | Stern | 2022 |
 | [John Wick (Premium)]({{ site.baseurl }}/guides/john-wick-premium/) | Stern | 2024 |
+| [Joker Poker]({{ site.baseurl }}/guides/joker-poker/) | Gottlieb | 1978 |
 | [Lethal Weapon 3]({{ site.baseurl }}/guides/lethal-weapon-3/) | Data East | 1992 |
 | [Metallica Remastered (Premium)]({{ site.baseurl }}/guides/metallica-remastered-premium/) | Stern | 2024 |
 | [Pabst Can Crusher]({{ site.baseurl }}/guides/pabst-can-crusher/) | Stern | 2016 |
