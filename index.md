@@ -50,5 +50,6 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Terminator 2: Judgment Day]({{ site.baseurl }}/guides/terminator-2-judgment-day/) | Williams | 1991 |
 | [The Beatles (Diamond)]({{ site.baseurl }}/guides/the-beatles-diamond/) | Stern | 2018 |
 | [The Shadow]({{ site.baseurl }}/guides/the-shadow/) | Bally | 1994 |
+| [Total Nuclear Annihilation]({{ site.baseurl }}/guides/total-nuclear-annihilation/) | Spooky Pinball | 2017 |
 | [Twilight Zone]({{ site.baseurl }}/guides/twilight-zone/) | Bally | 1993 |
 | [Venom (Premium)]({{ site.baseurl }}/guides/venom-premium/) | Stern | 2023 |
