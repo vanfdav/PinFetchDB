@@ -7,6 +7,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | Machine | Manufacturer | Year |
 |---------|-------------|------|
 | [Attack from Mars]({{ site.baseurl }}/guides/attack-from-mars/) | Bally | 1995 |
+| [Avengers: Infinity Quest (Premium)]({{ site.baseurl }}/guides/avengers-infinity-quest-premium/) | Stern | 2020 |
 | [Banzai Run]({{ site.baseurl }}/guides/banzai-run/) | Williams | 1988 |
 | [Batman 66 (Premium)]({{ site.baseurl }}/guides/batman-66-premium/) | Stern | 2016 |
 | [Beetlejuice]({{ site.baseurl }}/guides/beetlejuice/) | Spooky Pinball | 2025 |
