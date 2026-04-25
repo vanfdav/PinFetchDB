@@ -18,6 +18,7 @@ AI-generated strategy guides optimized for competitive tournament play.
 | [Disney TRON: Legacy]({{ site.baseurl }}/guides/disney-tron-legacy/) | Stern | 2011 |
 | [Dune]({{ site.baseurl }}/guides/dune/) | Barrels of Fun | 2025 |
 | [Dungeons & Dragons: The Tyrant's Eye (Premium)]({{ site.baseurl }}/guides/dungeons-dragons-the-tyrant-s-eye-premium/) | Stern | 2025 |
+| [Final Resistance]({{ site.baseurl }}/guides/final-resistance/) | Multimorphic | 2023 |
 | [Fish Tales]({{ site.baseurl }}/guides/fish-tales/) | Williams | 1992 |
 | [Foo Fighters (Premium)]({{ site.baseurl }}/guides/foo-fighters-premium/) | Stern | 2023 |
 | [Funhouse]({{ site.baseurl }}/guides/funhouse/) | Williams | 1990 |
